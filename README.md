@@ -1,8 +1,26 @@
-# React + Vite
+# Burç Yorumları Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, günlük burç yorumlarını gösteren basit bir React uygulamasıdır. Kullanıcılar bir burç seçerek o burcun günlük, haftalık ve aylık yorumunu görebilirler.
 
-Currently, two official plugins are available:
+## Özellikler
+- **Burç Seçimi:** Kullanıcılar burçlar arasından seçim yapabilir.
+- **Günlük Yorum:** Seçilen burç için günlük yorum görüntülenir.
+- **Renkli Simgeleme:** Burç simgeleri, her burcun temasına uygun şekilde renklendirilmiştir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kullanılan Teknolojiler
+- **React.js**
+- **Tailwind CSS** (styling için)
+- **React Router Dom** (sayfa yönlendirme için)
+
+---
+
+## Ekran Görüntüleri
+
+### 1. Anasayfa
+Burç seçimi ve bilgilendirme kartları:
+
+![Anasayfa Ekran Görüntüsü](screenshots/homepage.png)
+
+
+
+4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine gidin.
