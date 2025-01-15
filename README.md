@@ -18,6 +18,5 @@ Bu proje, günlük burç yorumlarını gösteren basit bir React uygulamasıdır
 Burç seçimi ve bilgilendirme kartları:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/mustafakaracuha/gunluk-burc-yorumu/blob/main/src/assets/screenshots/1.png" alt="Anasayfa Görüntüsü 1" width="45%" />
   <img src="https://github.com/mustafakaracuha/gunluk-burc-yorumu/blob/main/src/assets/screenshots/2.png" alt="Anasayfa Görüntüsü 2" width="45%" />
 </div>
