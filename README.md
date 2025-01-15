@@ -12,14 +12,12 @@ Bu proje, günlük burç yorumlarını gösteren basit bir React uygulamasıdır
 - **Tailwind CSS** (styling için)
 - **React Router Dom** (sayfa yönlendirme için)
 
----
-
 ## Ekran Görüntüleri
 
 ### 1. Anasayfa
 Burç seçimi ve bilgilendirme kartları:
 
-![Anasayfa Ekran Görüntüsü](screenshots/homepage.png)
+![Anasayfa Ekran Görüntüsü](https://github.com/mustafakaracuha/gunluk-burc-yorumu/blob/main/src/assets/screenshots/1.png)
 
 
 
